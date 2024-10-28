@@ -16,5 +16,5 @@ As someone who thrives on learning, I’m always experimenting with new projects
 - Building a CLIR Tool to help translate German News Articles in English
 
 ### Let's Connect!
-- [cristina-irene-fortiz.github.io/my-portfolio/](cristina-irene-fortiz.github.io/my-portfolio/)
+- [cristina-irene-fortiz.github.io/my-portfolio/](https://cristina-irene-fortiz.github.io/my-portfolio/)
 - [LinkedIn](https://linkedin.com/in/cristinafortiz)
