@@ -1,4 +1,4 @@
-### Hi, I’m Cristina Fortiz!
+### 👋 Hi, I’m Cristina Fortiz!
 
 I'm a passionate problem solver with a blend of cybersecurity expertise and a growing interest in data science.
 
